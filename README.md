@@ -1,2 +1,2 @@
 # UniversalWebServer
-Web server for Windows IOT built in Windows
+Web server for Windows IOT built with Windows Universal
